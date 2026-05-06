@@ -45,5 +45,5 @@
 <h3>🟡 Pacman eats my daily GitHub contributions</h3>
 
 <img
-  src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?v=1"
+  src="https://raw.githubusercontent.com/doeun9903/doeun9903/output/pacman-contribution-graph-dark.svg?v=1"
 />
