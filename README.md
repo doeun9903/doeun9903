@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=180&section=header&text=안녕하세요%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=50&desc=Welcome%20to%20my%20GitHub!&descAlignY=68&descSize=18)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=500&lines=안녕하세요%21;I'm+a+Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+
+<br>
 
 <h3>📚 STACKS</h3>
 <table>
@@ -52,5 +54,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doeun9903/doeun9903/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/doeun9903/doeun9903/output/pacman-contribution-graph.svg">
 </picture>
-
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true)
