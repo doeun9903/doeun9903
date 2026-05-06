@@ -39,3 +39,5 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/doeun9903" width="600" height="120"/>
 </a>
+
+<img src="https://raw.githubusercontent.com/doeun9903/doeun9903/output/github-contribution-grid-snake-dark.svg">
